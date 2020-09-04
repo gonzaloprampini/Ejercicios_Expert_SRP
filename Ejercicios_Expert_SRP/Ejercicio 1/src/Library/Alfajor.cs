@@ -31,7 +31,7 @@ namespace Expert_SRP
 
         public Double PrecioFinal()
 		{
-			return precioDulce+precioMasa;
+			return PrecioDulce + PrecioMasa;
 		}
     }
 }
