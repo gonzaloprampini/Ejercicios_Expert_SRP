@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+Cumple con respecto al Expert porque el responsable de hacer
+las citas es el metodo createAppointment que a su vez
+valida los campos de las citas
+Tambien cumple con el SRP porque no se necesita validar los campos
+de manera individual. hay un metodo que soluciona la validacion de
+los datos, que es el createAppoinment. 
+*/
+
+using System;
 using Library;
 
 namespace Program
