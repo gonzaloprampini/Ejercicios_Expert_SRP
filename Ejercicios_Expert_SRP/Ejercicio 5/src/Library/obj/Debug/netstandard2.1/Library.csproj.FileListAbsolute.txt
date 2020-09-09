@@ -1,0 +1,9 @@
+C:\Users\Nicolas\Desktop\Github\PII_Ejercicios_Expert_SRP-master\PII_Ejercicios_Expert_SRP-master\Ejercicio 4\src\Library\bin\Debug\netstandard2.1\Library.deps.json
+C:\Users\Nicolas\Desktop\Github\PII_Ejercicios_Expert_SRP-master\PII_Ejercicios_Expert_SRP-master\Ejercicio 4\src\Library\bin\Debug\netstandard2.1\Library.dll
+C:\Users\Nicolas\Desktop\Github\PII_Ejercicios_Expert_SRP-master\PII_Ejercicios_Expert_SRP-master\Ejercicio 4\src\Library\bin\Debug\netstandard2.1\Library.pdb
+C:\Users\Nicolas\Desktop\Github\PII_Ejercicios_Expert_SRP-master\PII_Ejercicios_Expert_SRP-master\Ejercicio 4\src\Library\obj\Debug\netstandard2.1\Library.csprojAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Github\PII_Ejercicios_Expert_SRP-master\PII_Ejercicios_Expert_SRP-master\Ejercicio 4\src\Library\obj\Debug\netstandard2.1\Library.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\Github\PII_Ejercicios_Expert_SRP-master\PII_Ejercicios_Expert_SRP-master\Ejercicio 4\src\Library\obj\Debug\netstandard2.1\Library.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\Github\PII_Ejercicios_Expert_SRP-master\PII_Ejercicios_Expert_SRP-master\Ejercicio 4\src\Library\obj\Debug\netstandard2.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\Github\PII_Ejercicios_Expert_SRP-master\PII_Ejercicios_Expert_SRP-master\Ejercicio 4\src\Library\obj\Debug\netstandard2.1\Library.dll
+C:\Users\Nicolas\Desktop\Github\PII_Ejercicios_Expert_SRP-master\PII_Ejercicios_Expert_SRP-master\Ejercicio 4\src\Library\obj\Debug\netstandard2.1\Library.pdb
